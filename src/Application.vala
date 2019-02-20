@@ -41,7 +41,7 @@ public class MyApp : Gtk.Application {
 
     main_window.default_height = 300;
     main_window.default_width = 300;
-    main_window.title = (_"Hello World");
+    main_window.title = _("Hello World");
 
     main_window.add (label);
     main_window.add (button_hello);

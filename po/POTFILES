@@ -1,0 +1,3 @@
+src/Application.vala
+data/com.github.giacomoalbe.hellogtk.desktop.in
+data/com.github.giacomoalbe.hellogtk.appdata.xml.in

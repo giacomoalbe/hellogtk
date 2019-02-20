@@ -1,64 +1,66 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# English translations for com.github.giacomoalbe.hellogtk package.
+# Copyright (C) 2019 THE com.github.giacomoalbe.hellogtk'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the com.github.giacomoalbe.hellogtk package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Automatically generated, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: com.github.giacomoalbe.hellogtk\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-20 22:33+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2019-02-20 22:33+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: src/Application.vala:29
 msgid "Click me!"
-msgstr ""
+msgstr "Click me!"
 
 #: src/Application.vala:34 src/Application.vala:44
 msgid "Hello World"
-msgstr ""
+msgstr "Hello World"
 
 #: src/Application.vala:38
 msgid "Hello Again world!"
-msgstr ""
+msgstr "Hello Again world!"
 
 #: data/com.github.giacomoalbe.hellogtk.desktop.in:3
 msgid "Hello GTK"
-msgstr ""
+msgstr "Hello GTK"
 
 #: data/com.github.giacomoalbe.hellogtk.desktop.in:4
 msgid "Hello GTK Application"
-msgstr ""
+msgstr "Hello GTK Application"
 
 #: data/com.github.giacomoalbe.hellogtk.desktop.in:5
 msgid "First application created for Elementary OS with GTK and Vala"
-msgstr ""
+msgstr "First application created for Elementary OS with GTK and Vala"
 
 #: data/com.github.giacomoalbe.hellogtk.desktop.in:8
 msgid "application-default-icon"
-msgstr ""
+msgstr "application-default-icon"
 
 #: data/com.github.giacomoalbe.hellogtk.desktop.in:11
 msgid "Hello;GTK;"
-msgstr ""
+msgstr "Hello;GTK;"
 
 #: data/com.github.giacomoalbe.hellogtk.appdata.xml.in:6
 msgid "Hello Gtk"
-msgstr ""
+msgstr "Hello Gtk"
 
 #: data/com.github.giacomoalbe.hellogtk.appdata.xml.in:7
 msgid "My first ElementaryOs application with Vala and Gtk+"
-msgstr ""
+msgstr "My first ElementaryOs application with Vala and Gtk+"
 
 #: data/com.github.giacomoalbe.hellogtk.appdata.xml.in:9
 msgid ""
 "A useless application done only to demonstrate how well structured and "
 "satisfactory is to write an application for this Linux distro"
 msgstr ""
+"A useless application done only to demonstrate how well structured and "
+"satisfactory is to write an application for this Linux distro"

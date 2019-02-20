@@ -20,12 +20,12 @@ executable(
 
 # Install .desktop file so the Application Menu will see it
 install_data(
-  join_paths('data', meson.project_name() + ".desktop"),
-  install_dir: join_paths(get_option('datadir', 'applications')
+  join_paths('data', meson.project_name() + '.desktop'),
+  install_dir: join_paths(get_option('datadir'), 'applications')
 )
 
 # Install .appdata.xml file so AppCenter will see it
 install_data(
-  join_paths('data', meson.project_name() + ".appdata.xml"),
-  install_dir: join_paths(get_option('datadir', 'metainfo')
+  join_paths('data', meson.project_name() + '.appdata.xml'),
+  install_dir: join_paths(get_option('datadir'), 'metainfo')
 )

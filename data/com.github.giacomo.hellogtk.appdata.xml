@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Giacomo <giacomoalbe@gmail.com> -->
+<component type="desktop">
+  <id>com.github.giacomoalbe.hellogtk</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello Gtk</name>
+  <summary>My first ElementaryOs application with Vala and Gtk+</summary>
+  <description>
+    <p>A useless application done only to demonstrate how well structured and satisfactory is to write an application for this Linux distro</p>
+  </description>
+  <custom>
+    <value key="x-appcenter-color-primary">#603461</value>
+    <value key="x-appcenter-color-primary-text">#ffffff</value>
+    <value key="x-appcenter-suggested-price">5</value>
+  </custom>
+</component>

@@ -1,0 +1,15 @@
+session_name: HELLOGTK
+start_directory: ./
+windows:
+  - window_name: Code
+    panes:
+      - shell_command:
+        - vim
+  - window_name: Make
+    panes:
+      - shell_command:
+        - clear
+  - window_name: Git
+    panes:
+      - shell_command:
+        - git status

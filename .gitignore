@@ -1,0 +1,11 @@
+.snapcraft
+.vscode
+src/config.vala
+build/
+parts/
+prime/
+stage/
+builddir/
+.flatpak-builder/
+*~
+*.snap
